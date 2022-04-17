@@ -31,3 +31,5 @@
 - <a href="https://iconscout.com/lotties/finger-print-fail" target="_blank">Finger print fail Lottie Animation</a> by <a href="https://iconscout.com/contributors/nbadri87">Qushot</a> on <a href="https://iconscout.com">Iconscout</a>
 - <a href="https://iconscout.com/lotties/cube" target="_blank">Cube Lottie Animation</a> by <a href="https://iconscout.com/contributors/pawelmaksymiuk" target="_blank">Paweł Maksymiuk</a>
 - <a href="https://iconscout.com/icons/upwork" target="_blank">Upwork Logo Icon</a> by <a href="https://iconscout.com/contributors/jagathish" target="_blank">Jagathish Saravanan</a>
+- <a href="https://iconscout.com/icons/sun" target="_blank">Sun Icon</a> by <a href="https://iconscout.com/contributors/unicons" target="_blank">Unicons Font</a>
+- <a href="https://iconscout.com/icons/moon" target="_blank">Moon Icon</a> by <a href="https://iconscout.com/contributors/iconic">Iconic .</a> on <a href="https://iconscout.com">Iconscout</a>

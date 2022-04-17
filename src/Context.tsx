@@ -4,7 +4,7 @@ export const themeContext = createContext({
   state: {
     darkMode: false,
   },
-  dispatch: {},
+  dispatch: {} as any,
 });
 
 const initialState = { darkMode: false };
