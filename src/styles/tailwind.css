@@ -65,7 +65,7 @@ body {
   height: 14rem;
   border-radius: 50%;
   background: #edd0ff;
-  z-index: -9;
+  z-index: 0 !important;
   top: -18%;
   left: 56%;
   filter: blur(72px);
