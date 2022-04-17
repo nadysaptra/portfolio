@@ -1,0 +1,11 @@
+.floatingDiv {
+  box-shadow: var(--boxShadow);
+  z-index: 2;
+  width: 16rem;
+  height: 5rem;
+}
+
+.floatingDiv > img {
+  width: 64px;
+  height: 64px;
+}

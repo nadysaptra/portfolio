@@ -1,0 +1,21 @@
+.intro {
+  /* height: 77vh; */
+}
+.boy-dev {
+  transform: scale(1.3);
+  z-index: 1;
+}
+
+.i-right {
+  flex: 1;
+  position: relative;
+}
+
+.i-right > *:not(img) {
+  position: absolute;
+  z-index: 1;
+}
+
+.i-icons img {
+  mix-blend-mode: color-burn;
+}

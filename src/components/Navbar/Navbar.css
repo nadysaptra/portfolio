@@ -1,0 +1,11 @@
+.n-wrapper {
+  height: 10vh;
+}
+
+.navbar .n-list > div > a {
+  font-weight: 400;
+}
+.navbar .n-list > div > a:hover {
+  @apply cursor-pointer;
+  color: var(--orange);
+}
